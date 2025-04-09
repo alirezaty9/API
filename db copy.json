@@ -1,0 +1,83 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amin Saeedi",
+      "username": "01010101",
+      "crime": 0,
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "name": "Qadir Yolme",
+      "username": "Q_Yolme",
+      "crime": 0,
+      "role": "ADMIN"
+    },
+    {
+      "id": 3,
+      "name": "Ehsan Mmdi",
+      "username": "ehs",
+      "crime": 0,
+      "role": "USER"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Golestan",
+      "author": "Sadi",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": 2,
+      "title": "Golestan",
+      "author": "Sadi",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": 3,
+      "title": "Golestan",
+      "author": "Sadi",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": 4,
+      "title": "Golestan",
+      "author": "Sadi",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": 6,
+      "title": "Golestan",
+      "author": "Sadi",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": 7,
+      "title": "Golestan",
+      "author": "Sadi",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": 8,
+      "title": "Golestan",
+      "author": "Sadi",
+      "price": 230000,
+      "free": 0
+    },
+    {
+      "id": "931f5858-4752-444e-88a0-d4c5608bcede",
+      "title": "test",
+      "author": "test",
+      "price": 11111111111,
+      "free": 1
+    }
+  ]
+}

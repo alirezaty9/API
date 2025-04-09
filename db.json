@@ -4,6 +4,7 @@
       "id": 1,
       "name": "Amin Saeedi",
       "username": "01010101",
+      "email": "test@gmail.com",
       "crime": 0,
       "role": "ADMIN"
     },
@@ -11,6 +12,7 @@
       "id": 2,
       "name": "Qadir Yolme",
       "username": "Q_Yolme",
+      "email": "test@gmail.com",
       "crime": 0,
       "role": "ADMIN"
     },
@@ -18,6 +20,23 @@
       "id": 3,
       "name": "Ehsan Mmdi",
       "username": "ehs",
+      "email": "test@gmail.com",
+      "crime": 90000,
+      "role": "ADMIN"
+    },
+    {
+      "id": "ad74d8f6-3e15-44ac-841b-9437e87bb913",
+      "name": "ali",
+      "username": "ali_mmdi",
+      "email": "ali@gmail.com",
+      "crime": 0,
+      "role": "USER"
+    },
+    {
+      "id": "fc9b7cd0-173c-4f5f-9bc8-ec9c062d7379",
+      "name": "mohammad",
+      "username": "mmd_salahi",
+      "email": "mmd@gmail.com",
       "crime": 0,
       "role": "USER"
     }
@@ -28,56 +47,22 @@
       "title": "Golestan",
       "author": "Sadi",
       "price": 230000,
-      "free": 0
+      "free": 1
     },
     {
       "id": 2,
-      "title": "Golestan",
-      "author": "Sadi",
-      "price": 230000,
+      "title": "Nodejs Book",
+      "author": "Person 1",
+      "price": 200000,
       "free": 0
-    },
+    }
+  ],
+  "rents": [
+    { "id": 1, "userID": 1, "bookID": 1 },
     {
-      "id": 3,
-      "title": "Golestan",
-      "author": "Sadi",
-      "price": 230000,
-      "free": 0
-    },
-    {
-      "id": 4,
-      "title": "Golestan",
-      "author": "Sadi",
-      "price": 230000,
-      "free": 0
-    },
-    {
-      "id": 6,
-      "title": "Golestan",
-      "author": "Sadi",
-      "price": 230000,
-      "free": 0
-    },
-    {
-      "id": 7,
-      "title": "Golestan",
-      "author": "Sadi",
-      "price": 230000,
-      "free": 0
-    },
-    {
-      "id": 8,
-      "title": "Golestan",
-      "author": "Sadi",
-      "price": 230000,
-      "free": 0
-    },
-    {
-      "id": 9,
-      "title": "Golestan",
-      "author": "Sadi",
-      "price": 230000,
-      "free": 0
+      "id": "8055d5dd-81c8-4d81-8853-89d9f07c7dad",
+      "userID": "fc9b7cd0-173c-4f5f-9bc8-ec9c062d7379",
+      "bookID": 2
     }
   ]
 }
